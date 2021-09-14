@@ -2,5 +2,5 @@
 
 ## *Author: John Doerr*
 
-OKRs give a lot of visibility into and organization.
+OKRs give a lot of visibility into an organization.
 
