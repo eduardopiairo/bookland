@@ -1,6 +1,6 @@
 # Infrastructure Monitoring with Prometheus
 
-## *Authors: Joel Bastos, Pedro Araújo*
+#### *Authors: Joel Bastos, Pedro Araújo*
 
 
 ## Chapter 1 - Monitoring Fundamentals
